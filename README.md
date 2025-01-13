@@ -37,6 +37,8 @@ Retrieve-Augment-Generate (RAG) is an advanced AI framework designed to blend in
 ### 4. **Llm Chaining**
 - This is the process where user gave input and change it into embedding, doing the similarity search, and gave the best answer
 
+### Application Video : https://drive.google.com/file/d/1umw_v1jGGhw_uIfD0igrfwzlu11V2lyU/view?usp=drive_link
+
 ### Resource : Alejandro AO - Software & Ai - Youtube 
 
 
