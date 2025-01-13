@@ -25,6 +25,8 @@ Retrieve-Augment-Generate (RAG) is an advanced AI framework designed to blend in
 
 ---
 
+## Flow Diagram Explanation
+
 ### 1. **Pdf Reading**
 - This process include about reading pdf document and make it into str data
 
